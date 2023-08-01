@@ -1,1 +1,1 @@
-# html-capstone
+# Jonathan-Potter-HTML-resume
